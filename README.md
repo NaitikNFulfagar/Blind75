@@ -1,11 +1,11 @@
-## 128. Longest Consecutive Sequence
-# 1st Logic - O(n^2)
+# 128. Longest Consecutive Sequence
+## 1st Logic - O(n^2)
 
 1.Sort
 
 2.two for loops
 
-# 2nd Logic - O(n)
+## 2nd Logic - O(n)
 
 1.convert List to Set
 
