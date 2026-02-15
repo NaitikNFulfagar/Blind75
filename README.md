@@ -7,7 +7,7 @@
 
 ## 2nd Logic - O(n)
 
-1.convert List to Set
+1.convert List to Set(to remove dup elements)
 
 2.Traverse through set
 
